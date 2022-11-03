@@ -1,0 +1,25 @@
+.container h2 {
+    text-align: center;  
+    margin-bottom: 50px; 
+}
+
+.container p {
+    font-size: 18px;
+    line-height: 26px;
+    text-align: justify;
+    direction: rtl;
+}
+
+.container {
+    margin-top: 50px;
+    margin: 20px 140px 20px 100px;
+    padding: 10px 0 0 ;
+}
+
+
+@media screen and (max-width:1040px) {
+    .container p {
+        object-fit: contain;
+        width: 100%;
+    }
+}

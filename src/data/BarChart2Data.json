@@ -1,0 +1,63 @@
+[
+    {
+    "id": 1,
+    "data": 1155,
+    "categories": "TCI"
+         
+    },
+  
+    {
+    "id": 2,
+    "data": 577,
+    "categories": "MCCi-AC"
+        },
+    {
+    "id": 3,
+    "data": 99,
+    "categories": "IRANCELL-AS"
+  
+    },
+  
+    {
+    "id": 4,
+    "data": 910,
+    "categories": "RASANA" 
+    },
+  
+    {
+    "id": 5,
+    "data": 123,
+    "categories": "PARSONLINE TEHRAN" 
+    },
+  
+    {
+    "id": 6,
+    "data": 76,
+    "categories": "RIGHTEL" 
+    },
+  
+    {
+    "id": 7,
+    "data": 100,
+    "categories": "NGGAS" 
+    },
+  
+    {
+    "id": 8,
+    "data": 221,
+    "categories": "ASIATECH" 
+    },
+  
+    {
+    "id": 9,
+    "data": 1187,
+    "categories": "MOBINNET" 
+    },
+  
+    {
+    "id": 10,
+    "data": 112,
+    "categories": "IR-THR-PRT" 
+    }
+          
+  ]

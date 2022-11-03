@@ -1,0 +1,36 @@
+.one {
+    width: 83.66px;
+}
+
+.two {
+    width: 126px;
+}
+
+.three {
+    width: 398px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 140px 20px 130px;
+    padding: 10px 0 0;
+
+}
+
+@media screen and (max-width:1040px) {
+    .three {
+        object-fit: contain;
+        width: 250px;
+        margin-left: 110px;
+    }
+    .images {
+        display: flex;
+        margin-right: -110px;
+        margin-left: -50px;
+    }
+    .one,.two {
+        object-fit: contain;
+        width: 90px;
+    }
+}
